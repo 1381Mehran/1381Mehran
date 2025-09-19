@@ -1,3 +1,5 @@
+![logo](https://github.com/1381Mehran/1381Mehran/blob/main/Pink%20Illustrated%20Gadget%20Review%20LinkedIn%20Banner.png)
+
 <h1 align="center">Hi 👋, I'm Mehran</h1>
 <h3 align="center">A passionate Backend developer from Iran/Mashhad</h3>
 
